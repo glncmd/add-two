@@ -13,4 +13,9 @@ l2 = ListNode(5, ListNode(6, ListNode(5, None)))
 ListNode(7, ListNode(0, ListNode(9, None)))
 ```
 
+Learnings:
+* Linked Lists
+* Chained assignments
+* divmod() method
+
 Problem from: https://leetcode.com/problems/add-two-numbers/
