@@ -5,7 +5,7 @@ Assume the two numbers do not contain any leading zero, except the number 0 itse
 
 Sample output:
 ```python
-#Input: l1 = [2,4,3], l2 = [5,6,5]
+#Input: l1 = [2, 4, 3], l2 = [5, 6, 5]
 l1 = ListNode(2, ListNode(4, ListNode(3, None)))
 l2 = ListNode(5, ListNode(6, ListNode(5, None)))
 
